@@ -1,0 +1,21 @@
+{
+  "name": "TELEGRAM SPAMMER",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "message",
+    "nodejs"
+  ],
+  "author": "SukaTank01",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "readline": ""
+  }
+}
