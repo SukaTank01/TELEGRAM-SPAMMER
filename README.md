@@ -28,8 +28,7 @@ npm start
 
 ```bash
 pkg update && pkg upgrade -y
-pkg install nodejs
-pkg install npm
+pkg install nodejs git -y
 git clone https://github.com/SukaTank01/TELEGRAM-SPAMMER.git
 cd TELEGRAM-SPAMMER
 npm start
@@ -47,3 +46,4 @@ Sisanya bisa sesuaikan sendiri
 
 > [!CAUTION]
 > Gunakan Tools ini dengan bijak
+
