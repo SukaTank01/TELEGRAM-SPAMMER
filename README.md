@@ -17,7 +17,7 @@ Tool spam text ke telegram via token bot + id owner
 ```bash
 apt update -y
 apt upgrade -y
-apt install node js -y
+apt install node-js -y
 apt install npm -y
 git clone https://github.com/SukaTank01/TELEGRAM-SPAMMER.git
 cd TELEGRAM-SPAMMER
@@ -46,4 +46,5 @@ Sisanya bisa sesuaikan sendiri
 
 > [!CAUTION]
 > Gunakan Tools ini dengan bijak
+
 
